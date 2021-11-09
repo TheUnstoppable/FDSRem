@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FDSRem", "FDSRem\FDSRem.csproj", "{07A4C070-24A8-4B62-8A85-9A45A560C348}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FDSRemSampleClient", "FDSRemSampleClient\FDSRemSampleClient.csproj", "{9F5A40D9-ACF6-4824-B0CB-20029F08EBB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A4C070-24A8-4B62-8A85-9A45A560C348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A4C070-24A8-4B62-8A85-9A45A560C348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A4C070-24A8-4B62-8A85-9A45A560C348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A4C070-24A8-4B62-8A85-9A45A560C348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5A40D9-ACF6-4824-B0CB-20029F08EBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5A40D9-ACF6-4824-B0CB-20029F08EBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5A40D9-ACF6-4824-B0CB-20029F08EBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5A40D9-ACF6-4824-B0CB-20029F08EBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B505DFA1-E4B2-4655-93CA-0A5633004A86}
+	EndGlobalSection
+EndGlobal
