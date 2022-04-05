@@ -1,5 +1,5 @@
 # FDSRem
-FDSRem is a ibrary to communicate with C&amp;C Renegade servers over RenRem protocol with useful extra features such as keep alive.
+FDSRem is a library to communicate with C&amp;C Renegade servers over RenRem protocol with useful extra features such as keep alive.
 
 
 ### Features
